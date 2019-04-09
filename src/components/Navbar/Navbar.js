@@ -8,11 +8,12 @@ function Navbar({ message, score, topScore }) {
           id="animate-this"
           className="col list-inline-item my-auto nav-calc-font m-0 p-0 text-center"
         >
-          {message}
+          {message} <br/>
+          BUT NOT THE SAME ONE TWICE!
         </li>
         <li className="col list-inline-item my-auto nav-calc-font p-0 m-0 text-center">
-         ONLY CLICK ON <br/>
-          IMAGES ONCE!
+         TRY TO CLICK ALL 24 <br/>
+          IMAGES TO WIN!
         </li>
         <li className="col list-inline-item my-auto nav-calc-font m-0 p-0 score-li-width text-center">
           SCORE: {score} | HIGH SCORE: {topScore}

@@ -82,6 +82,78 @@
       "image":
         "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/5/5b/Davos_seaworth_photo.jpg?width=640",
         "clicked": false
+    },
+    {
+      "id": 13,
+      "name": "Sansa Stark",
+      "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/b/b7/Sansa_HS.png?width=640",
+      "clicked": false
+    },
+    {
+      "id": 14,
+      "name": "Sandor Clegane",
+      "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/0/0f/Thehound.jpg?width=960",
+      "clicked": false
+    },
+    {
+      "id": 15,
+      "name": "Arya Stark",
+      "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/1/1e/Arya_HS.png?width=640",
+      "clicked": false
+    },
+    {
+      "id": 16,
+      "name": "Bronn",
+      "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/1/14/Bronn_of_the_blackwater.jpg?width=960",
+      "clicked": false
+    },
+    {
+      "id": 17,
+      "name": "Lady Melisandre",
+      "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/8/83/Melisandre_photo.png?width=960",
+      "clicked": false
+    },
+    {
+      "id": 18,
+      "name": "Gendry",
+      "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/c/ca/Gendry_boat.jpg?width=960",
+      "clicked": false
+    },
+    {
+      "id": 19,
+      "name": "Jorah Mormont",
+      "image": "https://static.gamespot.com/uploads/scale_super/171/1712892/3512236-09jorah.jpg",
+      "clicked": false
+    },
+    {
+      "id": 20,
+      "name": "Yara Greyjoy",
+      "image": "https://static.gamespot.com/uploads/scale_super/171/1712892/3512254-14yara.jpg",
+      "clicked": false
+    },
+    {
+      "id": 21,
+      "name": "Tormund Giantsbane",
+      "image": "https://static.gamespot.com/uploads/scale_super/171/1712892/3512260-19tormund.jpg",
+      "clicked": false
+    },
+    {
+      "id": 22,
+      "name": "Podrick Payne",
+      "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/5/5b/Podrick_Payne.png?width=960",
+      "clicked": false
+    },
+    {
+      "id": 23,
+      "name": "Beric Dondarrion",
+      "image": "https://static.gamespot.com/uploads/scale_super/171/1712892/3512263-22beric.jpg",
+      "clicked": false
+    },
+    {
+      "id": 24,
+      "name": "Gregor Clegane",
+      "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/b/be/Gregor_clegane_mountain.jpg?width=960",
+      "clicked": false
     }
 ]
   

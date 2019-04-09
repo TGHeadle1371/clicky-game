@@ -16,9 +16,9 @@ class App extends Component {
       isGuessCorrect: true,
       cards: cards,
       score: 0,
-      maxScore: 12,
+      maxScore: 24,
       topScore: 0,
-      message: "CLICK AN IMAGE TO BEGIN!"
+      message: "CLICK AN IMAGE TO BEGIN"
     };
   }
 
