@@ -2,7 +2,7 @@
 Try to click every characters picture only once! If you click it twice, you lose.
 
 ## About
-Click and Memorize. Click a character only once and gain a point. If you click a character again, you lose and your score is set to 0. Reach 12 and win!
+Click and Memorize. Click a character only once and gain a point. If you click a character again, you lose and your score is set to 0. Reach 24 and win!
 
 ## How to Play:
 - Open the app/game:[Here](https://tgheadle1371.github.io/clicky-game/)
